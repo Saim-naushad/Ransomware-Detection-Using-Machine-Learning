@@ -5,9 +5,9 @@ This project focuses on developing a machine learning-based model to detect and 
 
 The prediction layer of the model categorizes traffic into three classes:
 
-S (Safe): Benign or non-malicious network traffic.
-SS (Suspicious): Potentially suspicious traffic that warrants further investigation.
-A (Attack): Confirmed malicious or ransomware-related traffic.
+1. S (Safe): Benign or non-malicious network traffic.
+2. SS (Suspicious): Potentially suspicious traffic that warrants further investigation.
+3. A (Attack): Confirmed malicious or ransomware-related traffic.
 
 ### Technologies used within the project
 * TensorFlow/Keras was used for the model architecture and training because of its flexibility and efficiency in deep learning tasks.
