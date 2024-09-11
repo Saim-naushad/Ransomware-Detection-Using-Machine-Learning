@@ -16,8 +16,8 @@ The prediction layer of the model categorizes traffic into three classes:
 * Scikit-learn was chosen for splitting data into training, validation and test set, and evaluating model performance.
 
 ### Challenges faced during the compilation of the project
-**Scaling and  Normalizing Dataset** < br / >
-Ensuring that the input features were on a similar scale was an essential part of training a robust neural network. < br / >
+**Scaling and  Normalizing Dataset**\
+Ensuring that the input features were on a similar scale was an essential part of training a robust neural network. 
 
 **Hyperparameter Tuning** 
 
