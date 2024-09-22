@@ -24,3 +24,6 @@ Finding the right combination of hyperparameters (e.g., learning rate, batch siz
 
 _Feature Selection_\
 Understanding the relationship between the input/ feature layers and the output layer required extensive visualization of the dataset. 
+
+### Results
+* Test set Accuracy: 
