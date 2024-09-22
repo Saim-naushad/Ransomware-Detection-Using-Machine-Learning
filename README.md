@@ -26,4 +26,10 @@ _Feature Selection_\
 Understanding the relationship between the input/ feature layers and the output layer required extensive visualization of the dataset. 
 
 ### Results
-* Test set Accuracy: 
+* Test Set Accuracy: 0.9835
+* Precision: 0.9835
+* Recall: 0.9835
+* F1 Score: 0.9835
+* Confusion Matrix : [[6305   87   25]
+                      [ 136 9706   37]
+                      [  49   36 5976]]
